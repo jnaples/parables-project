@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Cardinal Fruit";
+  src: url("/fonts/CardinalFruit-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Cardinal Fruit", Georgia, serif;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
