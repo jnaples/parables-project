@@ -16,7 +16,7 @@ export default function ParableCard({
       <div className="flex flex-col gap-2">
         <h3 className="text-[20px] uppercase">Interpretation:</h3>
         {interpretation.map((para, i) => (
-          <p key={i} className="text-[16px] text-[#414141]">
+          <p key={i} className="text-[#414141]">
             {para}
           </p>
         ))}

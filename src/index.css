@@ -9,7 +9,9 @@
 
 @font-face {
   font-family: "Cardinal Fruit";
-  src: url("/fonts/CardinalFruit-Medium.ttf") format("truetype");
+  src:
+    url("/fonts/CardinalFruit-Medium.woff2") format("woff2"),
+    url("/fonts/CardinalFruit-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
@@ -22,7 +24,6 @@ h2 {
 h3 {
   font-family: "Clash Display", Georgia, serif;
   letter-spacing: 0.3rem;
-  
 }
 
 p {
