@@ -11,8 +11,13 @@ export default function ParableCard({
 
   useEffect(() => {
     const observer = new IntersectionObserver(
-      ([entry]) => { if (entry.isIntersecting) { setVisible(true); observer.disconnect(); } },
-      { threshold: 0.1 }
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setVisible(true);
+          observer.disconnect();
+        }
+      },
+      { threshold: 0.1 },
     );
     if (ref.current) observer.observe(ref.current);
     return () => observer.disconnect();
@@ -25,11 +30,12 @@ export default function ParableCard({
       style={{
         opacity: visible ? 1 : 0,
         transform: visible ? "translateY(0)" : "translateY(40px)",
-        transition: "opacity 2.4s cubic-bezier(0.16, 1, 0.3, 1), transform 2.4s cubic-bezier(0.16, 1, 0.3, 1)",
+        transition:
+          "opacity 2.4s cubic-bezier(0.16, 1, 0.3, 1), transform 2.4s cubic-bezier(0.16, 1, 0.3, 1)",
       }}
     >
       <div className="border-l-2 border-black px-6">
-        <h2 className="font-cardinal text-[40px]">
+        <h2 className="font-cardinal mb-2 text-[40px] leading-tight">
           {title} - {reference}
         </h2>
         <p className="text-[20px] leading-relaxed">{scripture}</p>
