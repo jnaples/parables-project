@@ -1,3 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500&display=swap");
+
+@font-face {
+  font-family: "Clash Display";
+  src: url("/fonts/ClashDisplay-Semibold.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+}
+
 @font-face {
   font-family: "Cardinal Fruit";
   src: url("/fonts/CardinalFruit-Medium.ttf") format("truetype");
@@ -6,9 +15,19 @@
 }
 
 h1,
-h2,
-h3 {
+h2 {
   font-family: "Cardinal Fruit", Georgia, serif;
+}
+
+h3 {
+  font-family: "Clash Display", Georgia, serif;
+  letter-spacing: 0.3rem;
+  
+}
+
+p {
+  color: #414141;
+  font-family: "Hanken Grotesk", system-ui, sans-serif;
 }
 
 @tailwind base;

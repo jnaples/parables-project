@@ -1,3 +1,6 @@
+import ParableCard from "./components/ParableCard";
+import parables from "./data/parables";
+
 function App() {
   return (
     <>
@@ -7,6 +10,15 @@ function App() {
           <h1 className="text-[64px] leading-tight">Parables of Jesus</h1>
         </div>
       </div>
+      <main className="w-full px-6 py-20">
+        <section className="mx-auto max-w-2xl">
+          <div className="container mx-auto flex flex-col gap-16">
+            {parables.map((parable) => (
+              <ParableCard key={parable.id} {...parable} />
+            ))}
+          </div>
+        </section>
+      </main>
     </>
   );
 }
