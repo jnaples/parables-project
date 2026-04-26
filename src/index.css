@@ -10,8 +10,8 @@
 @font-face {
   font-family: "Cardinal Fruit";
   src:
-    url("/fonts/CardinalFruit-Medium.woff2") format("woff2"),
-    url("/fonts/CardinalFruit-Medium.ttf") format("truetype");
+    url("/fonts/cardinal-fruit-medium.woff2") format("woff2"),
+    url("/fonts/cardinal-fruit-medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
