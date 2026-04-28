@@ -5,11 +5,13 @@ export default function ParableCard({
   reference,
   scripture,
   interpretation,
+  eager = false,
 }) {
   const ref = useRef(null);
-  const [visible, setVisible] = useState(false);
+  const [visible, setVisible] = useState(eager);
 
   useEffect(() => {
+    if (eager) return;
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting) {
@@ -21,7 +23,7 @@ export default function ParableCard({
     );
     if (ref.current) observer.observe(ref.current);
     return () => observer.disconnect();
-  }, []);
+  }, [eager]);
 
   return (
     <div

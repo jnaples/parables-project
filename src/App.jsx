@@ -7,12 +7,12 @@ function App() {
       <div className="flex h-[500px] w-full items-center justify-center bg-[url('/images/hero.png')] bg-cover bg-no-repeat">
         <div className="container mx-auto p-6 text-center text-white">
           <h1 className="mb-2 text-5xl">
-            <span className="fade-in" style={{ animationDelay: "0ms" }}>
+            <span className="fade-in" style={{ animationDelay: "150ms" }}>
               The
             </span>
           </h1>
           <h1 className="text-[64px] leading-none">
-            <span className="fade-in" style={{ animationDelay: "220ms" }}>
+            <span className="fade-in" style={{ animationDelay: "250ms" }}>
               Parables of Jesus
             </span>
           </h1>
@@ -21,8 +21,8 @@ function App() {
       <main className="w-full px-6 py-20">
         <section className="mx-auto max-w-2xl">
           <div className="container mx-auto flex flex-col gap-16">
-            {parables.map((parable) => (
-              <ParableCard key={parable.id} {...parable} />
+            {parables.map((parable, i) => (
+              <ParableCard key={parable.id} {...parable} eager={i === 0} />
             ))}
           </div>
         </section>
