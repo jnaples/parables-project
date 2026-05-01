@@ -6,21 +6,17 @@ function App() {
     <>
       <div className="flex h-[500px] w-full items-center justify-center bg-[url('/images/hero.png')] bg-cover bg-no-repeat">
         <div className="container mx-auto p-6 text-center text-white">
-          <h1 className="mb-2 text-5xl">
-            <span className="fade-in" style={{ animationDelay: "150ms" }}>
-              The
-            </span>
+          <h1
+            className="fade-in mb-2 text-5xl"
+            style={{ animationDelay: "300ms" }}
+          >
+            The
           </h1>
-          <h1 className="text-[64px] leading-none">
-            <span className="fade-in" style={{ animationDelay: "400ms" }}>
-              Parables
-            </span>{" "}
-            <span className="fade-in" style={{ animationDelay: "650ms" }}>
-              of
-            </span>{" "}
-            <span className="fade-in" style={{ animationDelay: "900ms" }}>
-              Jesus
-            </span>
+          <h1
+            className="fade-in text-[64px] leading-none"
+            style={{ animationDelay: "100ms" }}
+          >
+            Parables of Jesus
           </h1>
         </div>
       </div>
