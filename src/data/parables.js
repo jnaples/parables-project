@@ -53,19 +53,9 @@ one that gets used on you.`,
     scripture: `“No one sews a patch of unshrunk cloth on an old garment, for the patch will pull away from the garment, making the tear worse. Neither do people pour new wine into old wineskins. If they do, the skins will burst; the wine will run out and the wineskins will be ruined. No, they pour new wine into new wineskins, and both are preserved.”
 `,
     interpretation: [
-      `Jesus uses two simple pictures to make his point. If you sew new cloth onto an old worn out shirt, the new cloth shrinks and rips the shirt even worse than before. And for wine, when wine is new and fermenting it expands, so if you put it in old brittle wineskins that have no flexibility left, they burst and you lose everything.`,
+      `Jesus uses two simple pictures to make his point, if you sew new cloth onto an old worn out shirt, the new cloth shrinks and rips the shirt even worse than before. And for wine, when wine is new and fermenting it expands, so if you put it in old brittle wineskins that have no flexibility left, they burst and you lose everything.`,
       `The old shirt and old wineskin represent the religious leaders at the time (Pharisees) who were too rigid and set in their ways to accept anything new. The new cloth and wine represent what Jesus was bringing, not an upgrade to the old rules, but something completely different that needed a fresh start.`,
-      `The lesson is this. You cannot just add Jesus onto your old life like a new room added onto an old, crumbling house. If you try to keep your same habits, same mindset, and same way of doing things while squeezing Jesus in around the edges, it falls apart just like the burst bottle. Jesus doesn't renovate your old self. He replaces it with something new, new thinking, new priorities, a whole new way of seeing yourself and the world.`,
-    ],
-  },
-  {
-    id: 4,
-    title: "Parable of The Divided Kingdom",
-    reference: "Matthew 12:24-30",
-    scripture: `“But when the Pharisees heard this, they said, “It is only by Beelzebul, the prince of demons, that this fellow drives out demons.” Jesus knew their thoughts and said to them, “Every kingdom divided against itself will be ruined, and every city or household divided against itself will not stand. If Satan drives out Satan, he is divided against himself. How then can his kingdom stand? And if I drive out demons by Beelzebul, by whom do your people drive them out? So then, they will be your judges. But if it is by the Spirit of God that I drive out demons, then the kingdom of God has come upon you. “Or again, how can anyone enter a strong man’s house and carry off his possessions unless he first ties up the strong man? Then he can plunder his house. “Whoever is not with me is against me, and whoever does not gather with me scatters.”
-`,
-    interpretation: [
-      `Jesus uses two simple pictures to make his point. If you sew new cloth onto an old worn out shirt, the new cloth shrinks and rips the shirt even worse than before. And for wine, when wine is new and fermenting it expands, so if you put it in old brittle wineskins that have no flexibility left, they burst and you lose everything.`,
+      `The lesson is this. You cannot just add Jesus onto your old life like a new room added onto an old, crumbling house. If you try to keep your same habits, same mindset, and same way of doing things while squeezing Jesus in around the edges, it falls apart just like the burst wineskins. Jesus doesn't renovate your old self. He replaces it with something new, new thinking, new priorities, a whole new way of seeing yourself and the world.`,
     ],
   },
   {
@@ -74,9 +64,9 @@ one that gets used on you.`,
     reference: "Matthew 12:24–30",
     scripture: `"Every kingdom divided against itself will be ruined, and every city or household divided against itself will not stand. If Satan drives out Satan, he is divided against himself. How then can his kingdom stand? And if I drive out demons by Beelzebul, by whom do your people drive them out? So then, they will be your judges. But if it is by the Spirit of God that I drive out demons, then the kingdom of God has come upon you. How can anyone enter a strong man's house and carry off his possessions unless he first ties up the strong man? Then he can plunder his house. Whoever is not with me is against me, and whoever does not gather with me scatters."`,
     interpretation: [
-      `The religious leaders accused Jesus of casting out demons through the power of Satan. Jesus responds with simple logic: a kingdom fighting against itself collapses from the inside. If Satan is driving out his own demons, he's destroying his own operation, which makes no sense.`,
-      `The real point Jesus is making is about where his power comes from. If he's driving out evil by the Spirit of God, then the kingdom of God has arrived and they're standing in the middle of it rejecting it. He then uses the image of a strong man's house: you can't rob a strong man without tying him up first. Jesus is saying he has already bound Satan, and what they're watching is the plunder.`,
-      `The closing line is the one that cuts deepest: whoever is not with me is against me. There's no neutral ground here. You're either gathering with Jesus or scattering against him. The idea of remaining an undecided observer doesn't exist. That position is itself a choice.`,
+      `The religious leaders accused Jesus of casting out demons through the power of Satan. Jesus responds with simple logic. A kingdom fighting against itself collapses from the inside. If Satan is driving out his own demons, he's destroying his own plan, which makes no sense.`,
+      `The point Jesus is making is about where his power comes from. If he's driving out evil by the Spirit of God, then the kingdom of God has arrived and they're standing in the middle of it rejecting it. He then uses the image of a strong man's house, you can't rob a strong man without tying him up first. Jesus is saying he has already bound Satan, and every person being set free right in front of them is the proof of it.`,
+      `The important piece in this parable is His closing line, “Whoever is not with me is against me”. There's no neutral ground here. The idea of remaining an undecided follower doesn't exist. You're either with Jesus or against him.`,
     ],
   },
   {
