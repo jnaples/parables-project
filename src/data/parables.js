@@ -48,6 +48,17 @@ one that gets used on you.`,
   },
   {
     id: 3,
+    title: "Parable of The Wise and Foolish Builders",
+    reference: "Matthew 7:24-27",
+    scripture: `“Anyone who listens to my teaching and follows it is wise, like a person who builds a house on solid rock. Though the rain comes in torrents and the floodwaters rise and the winds beat against that house, it won’t collapse because it is built on bedrock. But anyone who hears my teaching and doesn’t obey it is foolish, like a person who builds a house on sand. When the rains and floods come and the winds beat against that house, it will collapse with a mighty crash.”`,
+    interpretation: [
+      `Jesus ends his most famous sermon with this image because he wants to make one thing absolutely clear — hearing his words is not enough. Two builders, same storm, completely different results. The only difference between them is what they did with what they heard. One built his life around actually following Jesus's teaching. The other heard the same thing, nodded along, and did nothing with it. When life got hard — and it got hard for both of them equally — one stood and one collapsed completely.`,
+      `The application is direct. You can read the Bible every day, know every parable, attend church every week, and still be building on sand if none of it is changing how you actually live.`,
+      `The rock isn't knowledge — it's obedience. Every time you hear something from Jesus and actually apply it to a real decision, a real relationship, or a real struggle, you're laying another foundation stone. Every time you hear it and file it away without acting on it, you're piling more sand. The storm is coming for everyone — the question is what your life is actually built on when it arrives.`,
+    ],
+  },
+  {
+    id: 4,
     title: "Parable of New Cloth on Old Garment",
     reference: "Matthew 9:16-17",
     scripture: `“No one sews a patch of unshrunk cloth on an old garment, for the patch will pull away from the garment, making the tear worse. Neither do people pour new wine into old wineskins. If they do, the skins will burst; the wine will run out and the wineskins will be ruined. No, they pour new wine into new wineskins, and both are preserved.”
@@ -75,9 +86,8 @@ one that gets used on you.`,
     reference: "Matthew 13:1–23",
     scripture: `"A farmer went out to sow his seed. As he was scattering the seed, some fell along the path, and the birds came and ate it up. Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow. But when the sun came up, the plants were scorched, and they withered because they had no root. Other seed fell among thorns, which grew up and choked the plants. Still other seed fell on good soil, where it produced a crop, a hundred, sixty or thirty times what was sown."`,
     interpretation: [
-      `A farmer scatters seed and it lands on four different types of ground. Some on a hard path where birds eat it immediately. Some on rocky soil where it sprouts fast but dies because there's no depth. Some among thorns that choke it out. And some on good soil where it produces a massive crop. Jesus explains it himself so there's no guessing: the seed is the message of the kingdom.`,
-      `The hard path is someone who hears the word but doesn't let it in at all, and the enemy takes it away before it can take root. The rocky soil is the person who responds emotionally and enthusiastically but has no depth, so when real difficulty or opposition comes, they walk away. The thorny soil is the person who genuinely hears the word but lets the pressure of daily life and the pull of money slowly suffocate it.`,
-      `The good soil is someone who actually hears, understands, and holds onto it long enough to bear fruit. This parable isn't just about first hearing the gospel, it's a diagnostic for anyone who professes faith. The question it asks is which soil are you, and the answer isn't found in how you responded on day one, it's found in what's still growing in your life right now.`,
+      `The path is someone who hears the word but doesn't let it in at all, and the enemy (Satan) takes it away before it can take root. The rocky soil is the person who receives it with excitement but has no depth. The moment following Jesus costs them something they fall away just as fast as they started. The thorns are the person who genuinely hears the word but the worries of life and the pursuit of wealth slowly crowd it out until it produces nothing.`,
+      `The good soil is someone who actually hears the word, understands it, and holds onto it long enough to bear fruit. Jesus isn't primarily describing four different people out in the world, he's describing four conditions a person's own heart can be in. The question is which soil are you in or working towards?`,
     ],
   },
   {
