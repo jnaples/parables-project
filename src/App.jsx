@@ -8,7 +8,7 @@ function App() {
         <div className="container mx-auto p-6 text-center text-white">
           <h1
             className="fade-in mb-2 text-5xl"
-            style={{ animationDelay: "300ms" }}
+            style={{ animationDelay: "100ms" }}
           >
             The
           </h1>

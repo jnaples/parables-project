@@ -16,7 +16,6 @@ export default function ParableCard({
     if (eager) {
       requestAnimationFrame(() => {
         setVisible(true);
-        setInterpretationVisible(true);
       });
       return;
     }
@@ -34,7 +33,6 @@ export default function ParableCard({
   }, [eager]);
 
   useEffect(() => {
-    if (eager) return;
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting) {
