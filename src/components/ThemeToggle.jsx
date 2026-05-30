@@ -3,7 +3,7 @@ export default function ThemeToggle({ dark, onToggle }) {
     <button
       onClick={onToggle}
       aria-label="Toggle theme"
-      className={`fixed bottom-3 right-6 flex h-10 w-10 items-center justify-center rounded-full border p-2 shadow-md transition-colors lg:bottom-6 ${
+      className={`fixed bottom-3 right-6 flex items-center justify-center rounded-full border p-2 shadow-md transition-colors lg:bottom-6 ${
         dark
           ? "border-neutral-700 bg-neutral-900 text-neutral-100"
           : "border-neutral-200 bg-white text-neutral-900"
@@ -11,8 +11,8 @@ export default function ThemeToggle({ dark, onToggle }) {
     >
       {dark ? (
         <svg
-          width="24"
-          height="24"
+          width="32"
+          height="32"
           viewBox="0 0 24 24"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
@@ -31,8 +31,8 @@ export default function ThemeToggle({ dark, onToggle }) {
         </svg>
       ) : (
         <svg
-          width="24"
-          height="24"
+          width="32"
+          height="32"
           viewBox="0 0 24 24"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
