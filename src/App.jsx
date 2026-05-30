@@ -1,7 +1,15 @@
+import { useEffect, useState } from "react";
 import ParableCard from "./components/ParableCard";
+import ThemeToggle from "./components/ThemeToggle";
 import parables from "./data/parables";
 
 function App() {
+  const [dark, setDark] = useState(false);
+
+  useEffect(() => {
+    document.documentElement.classList.toggle("dark", dark);
+  }, [dark]);
+
   return (
     <>
       <div className="flex h-[500px] w-full items-center justify-center bg-[url('/images/hero.png')] bg-cover bg-no-repeat">
@@ -30,6 +38,7 @@ function App() {
           </div>
         </section>
       </main>
+      <ThemeToggle dark={dark} onToggle={() => setDark((d) => !d)} />
     </>
   );
 }

@@ -130,9 +130,10 @@ one that gets used on you.`,
     reference: "Matthew 13:44",
     scripture: `"The kingdom of Heaven is like treasure hidden in a field. When a man found it, he hid it again, and then in his joy went and sold all he had and bought that field."`,
     interpretation: [
-      `A man stumbles across treasure buried in a field. He covers it back up, goes and sells everything he owns, and buys the field. No hesitation, no negotiating, no looking back.`,
-      `The point is the value of the kingdom relative to everything else. The man doesn't reluctantly give up his possessions. He does it with joy because he knows what he found is worth more than everything he's trading in. This is what genuine faith actually looks like. It's not a sacrifice you force yourself to make, it's a trade you're happy to make because you understand what you're getting.`,
-      `If following Jesus feels like constant loss and sacrifice without any sense of gain, this parable suggests you haven't yet seen clearly what you found. The problem isn't the cost, it's that the treasure hasn't fully registered yet.`,
+      `A man stumbles across treasure buried in a field, he wasn't even looking for it. The moment he realizes what he's found he covers it back up, rushes home, sells everything he owns, and buys the field. No hesitation, no negotiating, no looking back.`,
+      `He doesn't view what he’s giving up as a painful sacrifice, doesn't weigh the pros and cons, doesn't ask for anyone's opinion. He does it with full joy because he knows what he is getting is infinitely more valuable than what he is giving up.`,
+      `The kingdom of God is that treasure. The lesson cuts directly into the way some people approach following Jesus, treating it as a series of things they have to give up, habits they have to quit, freedoms they have to surrender. `,
+      `When you genuinely grasp the value of what Jesus is offering, the things you're releasing in exchange stop feeling less like losses and start feeling like the most amazing trade you can't believe you're getting to make.`,
     ],
   },
   {

@@ -49,7 +49,7 @@ export default function ParableCard({
   return (
     <div ref={ref} className="flex flex-col gap-6">
       <div
-        className="border-l-2 border-black px-6"
+        className="border-l-2 border-black dark:border-neutral-600 px-6"
         style={{
           opacity: visible ? 1 : 0,
           transform: visible ? "translateY(0)" : "translateY(40px)",

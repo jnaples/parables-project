@@ -26,9 +26,24 @@ h3 {
   letter-spacing: 0.3rem;
 }
 
+body {
+  background-color: #ffffff;
+  color: #1a1a1a;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.dark body {
+  background-color: #1a1a1a;
+  color: #e8e4dc;
+}
+
 p {
   color: #414141;
   font-family: "Hanken Grotesk", system-ui, sans-serif;
+}
+
+.dark p {
+  color: #a8a49c;
 }
 
 @keyframes fadeInDown {
