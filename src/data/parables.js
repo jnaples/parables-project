@@ -66,7 +66,7 @@ one that gets used on you.`,
     interpretation: [
       `Jesus uses two simple pictures to make his point, if you sew new cloth onto an old worn out shirt, the new cloth shrinks and rips the shirt even worse than before. And for wine, when wine is new and fermenting it expands, so if you put it in old brittle wineskins that have no flexibility left, they burst and you lose everything.`,
       `The old shirt and old wineskin represent the religious leaders at the time (Pharisees) who were too rigid and set in their ways to accept anything new. The new cloth and wine represent what Jesus was bringing, not an upgrade to the old rules, but something completely different that needed a fresh start.`,
-      `The lesson is this. You cannot just add Jesus onto your old life like a new room added onto an old, crumbling house. If you try to keep your same habits, same mindset, and same way of doing things while squeezing Jesus in around the edges, it falls apart just like the burst wineskins. Jesus doesn't renovate your old self. He replaces it with something new, new thinking, new priorities, a whole new way of seeing yourself and the world.`,
+      `The lesson is this, you cannot just add Jesus onto your old life like a new room added onto an old, crumbling house. If you try to keep your same habits, same mindset, and same way of doing things while squeezing Jesus in around the edges, it falls apart just like the burst wineskins. Jesus doesn't renovate your old self. He replaces it with something new, new thinking, new priorities, a whole new way of seeing yourself and the world.`,
     ],
   },
   {
